@@ -12,4 +12,4 @@ Hello git! Hello, ladies and gentlemen!
 Hello git! Hello, ladies and gentlemen!
 Hello git! Hello, ladies and gentlemen!
 Hello git! Hello, ladies and gentlemen!
-Hello git! Hello, ladies and gentlemen! hot-fix test
+Hello git! Hello, ladies and gentlemen! hot-fix test merge_hot-fix
